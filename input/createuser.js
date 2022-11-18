@@ -1,6 +1,6 @@
-{
+let something = {
     title: 'Create new user',
-        url: 'https: //jsonplaceholder.typicode.com/users',
+    url : 'https: //jsonplaceholder.typicode.com/users',
             method: 'POST',
                 body: [
                     {
