@@ -1,8 +1,8 @@
 # endpoint
 
 1. Create a javascript file in the input folder according to the object specifications listed on the instructions.
-2. Title the object as inputdata ={....} and be sure to export {inputdata}; at the end of the file
-3. Please see samples of all 4 functions working in the input folder.
+2. Title the object as inputdata ={....} and be sure to export {inputdata}; at the end of the file.
+3. Please see samples of all 4 functions working in the input folder, and copy the configurations if needed.
 4. In the explorer component be sure to change the import statement to point to the test input file.
 5. run npm run start and try!
 
