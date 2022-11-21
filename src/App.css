@@ -1,3 +1,25 @@
+body {
+  margin-left: 8%;
+  margin-right: 5%;
+  margin-top: 2%;
+  background-color: #2B2C3D;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 900;
+
+}
+
+b {
+  font-weight: 2;
+}
+
+hr {
+  margin-top: 1%;
+  border: 2px solid #4a5467;
+  border-radius: 5px;
+
+
+}
 .App {
   text-align: center;
 }

@@ -1,4 +1,4 @@
-import Page from './components/exporer'
+import Page from './components/explorer'
 import './App.css';
 
 function App() {
